@@ -1,8 +1,8 @@
 ﻿  DonutAnimation.cpp
-D:\STD\Practise\DountAnim\DonutAnimation\DonutAnimation\DonutAnimation.cpp(11,32): warning C4305: 'initializing': truncation from 'double' to 'float'
-D:\STD\Practise\DountAnim\DonutAnimation\DonutAnimation\DonutAnimation.cpp(32,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-D:\STD\Practise\DountAnim\DonutAnimation\DonutAnimation\DonutAnimation.cpp(33,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-D:\STD\Practise\DountAnim\DonutAnimation\DonutAnimation\DonutAnimation.cpp(34,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-D:\STD\Practise\DountAnim\DonutAnimation\DonutAnimation\DonutAnimation.cpp(47,11): warning C4305: '+=': truncation from 'double' to 'float'
-D:\STD\Practise\DountAnim\DonutAnimation\DonutAnimation\DonutAnimation.cpp(48,11): warning C4305: '+=': truncation from 'double' to 'float'
+D:\STD\Practise\DountAnim\DonutAnimation\DonutAnimation\DonutAnimation.cpp(12,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\STD\Practise\DountAnim\DonutAnimation\DonutAnimation\DonutAnimation.cpp(38,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\STD\Practise\DountAnim\DonutAnimation\DonutAnimation\DonutAnimation.cpp(39,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\STD\Practise\DountAnim\DonutAnimation\DonutAnimation\DonutAnimation.cpp(42,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\STD\Practise\DountAnim\DonutAnimation\DonutAnimation\DonutAnimation.cpp(56,11): warning C4305: '+=': truncation from 'double' to 'float'
+D:\STD\Practise\DountAnim\DonutAnimation\DonutAnimation\DonutAnimation.cpp(57,11): warning C4305: '+=': truncation from 'double' to 'float'
   DonutAnimation.vcxproj -> D:\STD\Practise\DountAnim\DonutAnimation\x64\Debug\DonutAnimation.exe
